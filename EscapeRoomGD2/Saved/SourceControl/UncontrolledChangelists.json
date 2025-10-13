@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Player/BP_DefaultPlayer.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Player/BP_PlayerController.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Levels/Map1.umap",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Levels/LevelData/GM_EscapRoom.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Levels/LevelData/GI_Default.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IMC_Default.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IA_Movement.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IA_Look.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Enums/Enum_PossessedPawn.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_PuzzleGame.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IA_Interaction.uasset",
+				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_Interaction.uasset"
+			]
+		}
+	]
+}
