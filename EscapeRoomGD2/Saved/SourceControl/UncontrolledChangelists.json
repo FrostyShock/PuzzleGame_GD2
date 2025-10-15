@@ -14,6 +14,16 @@
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Inspection/IA_Rotate.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Inspection/IMC_Inspection.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Art/2D/Materials/PM_SortTest.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_UserInterface.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_TextInfo.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/ItemData/STR_ItemInfo.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Default/IA_Notes.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Default/IMC_Default.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_Notes.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_NotesPanel.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_NoteEntry.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Blueprints/BasicInteractables/BP_NotesParent.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Blueprints/BasicInteractables/BP_ChildNoteTest.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Player/BP_DefaultPlayer.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Player/BP_PlayerController.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Levels/Map1.umap",
@@ -26,9 +36,6 @@
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_PuzzleGame.uasset",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IA_Interaction.uasset",
-				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_UserInterface.uasset",
-				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_TextInfo.uasset",
-				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/ItemData/STR_ItemInfo.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_Interaction.uasset"
 			]
 		}
