@@ -19,7 +19,6 @@
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/ItemData/STR_ItemInfo.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Default/IA_Notes.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Input/Default/IMC_Default.uasset",
-				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_Notes.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_NotesPanel.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_NoteEntry.uasset",
 				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Blueprints/BasicInteractables/BP_NotesParent.uasset",
@@ -36,6 +35,13 @@
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_PuzzleGame.uasset",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Input/Default/IA_Interaction.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Components/AC_DialogueComponent.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Data/Enums/Enum_DialogueState.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/Dialogue/WID_DialogueOption.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/Dialogue/WID_Dialogue.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Blueprints/Characters/BP_TestCharacter.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/Blueprints/Characters/AC_Dialogue_TestChar.uasset",
+				"C:/Users/Chris/Documents/GitHub/PuzzleGame_GD2/EscapeRoomGD2/Content/UI/WID_Notes.uasset",
 				"C:/Users/Chris/Documents/Unreal Projects/EscapeRoomGD2/Content/Data/Interfaces/BPI_Interaction.uasset"
 			]
 		}
